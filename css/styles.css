@@ -617,6 +617,8 @@ img {
     
     background-color: rgba(0, 0, 0, 0.2);
 
+    transition: opacity var(--time-duration), visibility var(--time-duration);
+
 }
 .modal {
     width: 528px;
